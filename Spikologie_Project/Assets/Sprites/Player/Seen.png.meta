@@ -1,0 +1,2162 @@
+fileFormatVersion: 2
+guid: 6395f10e43d3a4a4284541065db47e80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9105802920101524623
+    second: Seen
+  - first:
+      213: 2059340722492921552
+    second: Seen_1
+  - first:
+      213: 1076844252226540882
+    second: Seen_2
+  - first:
+      213: -3086191997751425965
+    second: Seen_3
+  - first:
+      213: 3595472328055954841
+    second: Seen_4
+  - first:
+      213: 2130090528240249073
+    second: Seen_5
+  - first:
+      213: -6057474321454106403
+    second: Seen_6
+  - first:
+      213: 8209618536212621881
+    second: Seen_7
+  - first:
+      213: -192158367401138330
+    second: Seen_8
+  - first:
+      213: -8006228320798012864
+    second: Seen_9
+  - first:
+      213: -7202969717573354129
+    second: Seen_10
+  - first:
+      213: 3949350926691943045
+    second: Seen_11
+  - first:
+      213: 8173927614986476513
+    second: Seen_12
+  - first:
+      213: 7018873602595863434
+    second: Seen_13
+  - first:
+      213: -7609929909215061217
+    second: Seen_14
+  - first:
+      213: -3671321166011318897
+    second: Seen_15
+  - first:
+      213: -2304216925537930485
+    second: Seen_16
+  - first:
+      213: 4395138139241240927
+    second: Seen_17
+  - first:
+      213: -4544267961920662998
+    second: Seen_18
+  - first:
+      213: -3585239363822730566
+    second: Seen_19
+  - first:
+      213: 7870528898172063984
+    second: Seen_20
+  - first:
+      213: -6545620565379457553
+    second: Seen_21
+  - first:
+      213: 2007238056572491500
+    second: Seen_22
+  - first:
+      213: -7470057163208035601
+    second: Seen_23
+  - first:
+      213: 4894961254704465210
+    second: Seen_24
+  - first:
+      213: 1998581695129692566
+    second: Seen_25
+  - first:
+      213: 4068111687809464871
+    second: Seen_26
+  - first:
+      213: 8664652722628591388
+    second: Seen_27
+  - first:
+      213: 6032376491007564519
+    second: Seen_28
+  - first:
+      213: -8697603816276419846
+    second: Seen_29
+  - first:
+      213: 4539591370739263852
+    second: Seen_30
+  - first:
+      213: 4888985816834901044
+    second: Seen_31
+  - first:
+      213: -517385110839776599
+    second: Seen_32
+  - first:
+      213: 8409367610280921531
+    second: Seen_33
+  - first:
+      213: -454164037675387840
+    second: Seen_34
+  - first:
+      213: 3302532402045951078
+    second: Seen_35
+  - first:
+      213: 9097186633868398888
+    second: Seen_36
+  - first:
+      213: -6990984833521996251
+    second: Seen_37
+  - first:
+      213: 5334571747544917769
+    second: Seen_38
+  - first:
+      213: 3567999515420787522
+    second: Seen_39
+  - first:
+      213: -2546340626331299846
+    second: Seen_40
+  - first:
+      213: 7973524543446913895
+    second: Seen_41
+  - first:
+      213: -1568203702639144222
+    second: Seen_42
+  - first:
+      213: -7720037149176920812
+    second: Seen_43
+  - first:
+      213: -2006643678452133717
+    second: Seen_44
+  - first:
+      213: -2623727838940961866
+    second: Seen_45
+  - first:
+      213: 8539199273489591421
+    second: Seen_46
+  - first:
+      213: -4147846354929163188
+    second: Seen_47
+  - first:
+      213: 7229335819238141794
+    second: Seen_48
+  - first:
+      213: 4727981187804662937
+    second: Seen_49
+  - first:
+      213: 7629919987225215168
+    second: Seen_50
+  - first:
+      213: 6887669160369145565
+    second: Seen_51
+  - first:
+      213: 5785610556290847981
+    second: Seen_52
+  - first:
+      213: -2950215034511257024
+    second: Seen_53
+  - first:
+      213: -8214944168141910951
+    second: Seen_54
+  - first:
+      213: 5779229092234861430
+    second: Seen_55
+  - first:
+      213: 4796698015436197368
+    second: Seen_56
+  - first:
+      213: 5175360443779307038
+    second: Seen_57
+  - first:
+      213: -5572635207012601038
+    second: Seen_58
+  - first:
+      213: -2259997504853692073
+    second: Seen_59
+  - first:
+      213: 1613977729964812091
+    second: Seen_60
+  - first:
+      213: 6944080226627698460
+    second: Seen_61
+  - first:
+      213: -4994210386582029361
+    second: Seen_62
+  - first:
+      213: 8479132026357055328
+    second: Seen_63
+  - first:
+      213: -615871972594231957
+    second: Seen_64
+  - first:
+      213: -7215623239709625439
+    second: Seen_65
+  - first:
+      213: 8492824712594081461
+    second: Seen_66
+  - first:
+      213: 7826715182657908388
+    second: Seen_67
+  - first:
+      213: 1498168812834771487
+    second: Seen_68
+  - first:
+      213: -4754717057894622477
+    second: Seen_69
+  - first:
+      213: -7101681832302141861
+    second: Seen_70
+  - first:
+      213: 2624615067809677078
+    second: Seen_71
+  - first:
+      213: -7785585542310383146
+    second: Seen_72
+  - first:
+      213: -6615318276244377875
+    second: Seen_73
+  - first:
+      213: -6723297908481996183
+    second: Seen_74
+  - first:
+      213: 1932691036975135607
+    second: Seen_75
+  - first:
+      213: -861085207375586331
+    second: Seen_76
+  - first:
+      213: 6446632209782683248
+    second: Seen_77
+  - first:
+      213: -6262160268658261889
+    second: Seen_78
+  - first:
+      213: 5490593184235016232
+    second: Seen_79
+  - first:
+      213: 7348969572983517112
+    second: Seen_80
+  - first:
+      213: -6850588583797461054
+    second: Seen_81
+  - first:
+      213: -4221908845002374573
+    second: Seen_82
+  - first:
+      213: 16291272651412280
+    second: Seen_83
+  - first:
+      213: 3805741268546987147
+    second: Seen_84
+  - first:
+      213: 2164762100084979303
+    second: Seen_85
+  - first:
+      213: 7563678636433142965
+    second: Seen_86
+  - first:
+      213: -4497583791109173385
+    second: Seen_87
+  - first:
+      213: -8221422356392796368
+    second: Seen_88
+  - first:
+      213: -1016221763120207889
+    second: Seen_89
+  - first:
+      213: -8778091488355957492
+    second: Seen_90
+  - first:
+      213: 8801515629794360088
+    second: Seen_91
+  - first:
+      213: -5108664145637307143
+    second: Seen_92
+  - first:
+      213: 2959296655974615541
+    second: Seen_93
+  - first:
+      213: 5217095741485690282
+    second: Seen_94
+  - first:
+      213: 2821202249123851026
+    second: Seen_95
+  - first:
+      213: -4151388889061121846
+    second: Seen_96
+  - first:
+      213: -7638788573926884648
+    second: Seen_97
+  - first:
+      213: -4382800692896165604
+    second: Seen_98
+  - first:
+      213: 209006435496025024
+    second: Seen_99
+  - first:
+      213: 6055456355643156003
+    second: Seen_100
+  - first:
+      213: 6767850613192036299
+    second: Seen_101
+  - first:
+      213: -6221464667967959612
+    second: Seen_102
+  - first:
+      213: -7810012069979500128
+    second: Seen_103
+  - first:
+      213: 5586806359286273164
+    second: Seen_104
+  - first:
+      213: 7605127186747674539
+    second: Seen_105
+  - first:
+      213: 8515746676331644227
+    second: Seen_106
+  - first:
+      213: -536290635340605976
+    second: Seen_107
+  - first:
+      213: -3691450681445941360
+    second: Seen_108
+  - first:
+      213: -5477536387332044414
+    second: Seen_109
+  - first:
+      213: -1839065323743913865
+    second: Seen_110
+  - first:
+      213: -393027434825995987
+    second: Seen_111
+  - first:
+      213: 7734705625266628461
+    second: Seen_112
+  - first:
+      213: 4416547997337650865
+    second: Seen_113
+  - first:
+      213: 2634704961851325820
+    second: Seen_114
+  - first:
+      213: 2390678182786582594
+    second: Seen_115
+  - first:
+      213: 8706541817305474690
+    second: Seen_116
+  - first:
+      213: -8324657725919804159
+    second: Seen_117
+  - first:
+      213: 2486523356495992728
+    second: Seen_118
+  - first:
+      213: -7665203224234617647
+    second: Seen_119
+  - first:
+      213: 4986958709327446055
+    second: Seen_120
+  - first:
+      213: 2378754587617731863
+    second: Seen_121
+  - first:
+      213: 6227181294368299654
+    second: Seen_122
+  - first:
+      213: -562999097489963600
+    second: Seen_123
+  - first:
+      213: 4324166211561300895
+    second: Seen_124
+  - first:
+      213: 8521825018216465122
+    second: Seen_125
+  - first:
+      213: 1412724695793142962
+    second: Seen_126
+  - first:
+      213: 6351725929767994692
+    second: Seen_127
+  - first:
+      213: 1729443161987126086
+    second: Seen_128
+  - first:
+      213: -7635623628150573020
+    second: Seen_129
+  - first:
+      213: -2775861135812429907
+    second: Seen_130
+  - first:
+      213: 7211070410175397500
+    second: Seen_131
+  - first:
+      213: 6464516598974049588
+    second: Seen_132
+  - first:
+      213: 8307142363426799394
+    second: Seen_133
+  - first:
+      213: -9193834419622875535
+    second: Seen_134
+  - first:
+      213: -7553552210601515475
+    second: Seen_135
+  - first:
+      213: -8886822181939355975
+    second: Seen_136
+  - first:
+      213: -7727646801268588617
+    second: Seen_137
+  - first:
+      213: 4406739118592961124
+    second: Seen_138
+  - first:
+      213: -6679408178086647282
+    second: Seen_139
+  - first:
+      213: -8844596404144761795
+    second: Seen_140
+  - first:
+      213: -3528097187887193464
+    second: Seen_141
+  - first:
+      213: -1975922047348346141
+    second: Seen_142
+  - first:
+      213: -1763317168731280196
+    second: Seen_143
+  - first:
+      213: 886433707018968364
+    second: Seen_144
+  - first:
+      213: 7738704536433569367
+    second: Seen_145
+  - first:
+      213: 1649319098462055632
+    second: Seen_146
+  - first:
+      213: 1708700474664682149
+    second: Seen_147
+  - first:
+      213: -3643753634448360792
+    second: Seen_148
+  - first:
+      213: 3087399167955760235
+    second: Seen_149
+  - first:
+      213: -1753235384753567044
+    second: Seen_150
+  - first:
+      213: 535024596108831939
+    second: Seen_151
+  - first:
+      213: 5615374219022787265
+    second: Seen_152
+  - first:
+      213: -9012212329610422143
+    second: Seen_153
+  - first:
+      213: 5377338281461941419
+    second: Seen_154
+  - first:
+      213: -7224360940219058957
+    second: Seen_155
+  - first:
+      213: 1965443022740041548
+    second: Seen_156
+  - first:
+      213: 153131152055010635
+    second: Seen_157
+  - first:
+      213: 7043277299262294750
+    second: Seen_158
+  - first:
+      213: 5700097650866818335
+    second: Seen_159
+  - first:
+      213: 6160674595006008623
+    second: Seen_160
+  - first:
+      213: -6232818997645536311
+    second: Seen_161
+  - first:
+      213: -4994870303534573922
+    second: Seen_162
+  - first:
+      213: -759607830467127609
+    second: Seen_163
+  - first:
+      213: 5996144409819246688
+    second: Seen_164
+  - first:
+      213: 507072159828419962
+    second: Seen_165
+  - first:
+      213: 5083108437549579522
+    second: Seen_166
+  - first:
+      213: 6405777515940437478
+    second: Seen_167
+  - first:
+      213: 3389426700962304028
+    second: Seen_168
+  - first:
+      213: -7967954238823266094
+    second: Seen_169
+  - first:
+      213: 6029241265155635698
+    second: Seen_170
+  - first:
+      213: -3219958225395249065
+    second: Seen_171
+  - first:
+      213: 976519273373262627
+    second: Seen_172
+  - first:
+      213: 9187149872448496922
+    second: Seen_173
+  - first:
+      213: 9159192777840205816
+    second: Seen_174
+  - first:
+      213: 2419534139778620755
+    second: Seen_175
+  - first:
+      213: -3432837676063864541
+    second: Seen_176
+  - first:
+      213: 1318030160572017356
+    second: Seen_177
+  - first:
+      213: -3461825314887628235
+    second: Seen_178
+  - first:
+      213: -7455704769641324989
+    second: Seen_179
+  - first:
+      213: -8342261990281815063
+    second: Seen_180
+  - first:
+      213: -1247646506948958691
+    second: Seen_181
+  - first:
+      213: -8140950968235844446
+    second: Seen_182
+  - first:
+      213: -7211797395827472925
+    second: Seen_183
+  - first:
+      213: 4943778422913193688
+    second: Seen_184
+  - first:
+      213: -4363710544375158769
+    second: Seen_185
+  - first:
+      213: 1571385084809421517
+    second: Seen_186
+  - first:
+      213: -7845322642654021731
+    second: Seen_187
+  - first:
+      213: 8951202742411715874
+    second: Seen_188
+  - first:
+      213: -307476597924669283
+    second: Seen_189
+  - first:
+      213: 3279535742230743490
+    second: Seen_190
+  - first:
+      213: -5005476325264264122
+    second: Seen_191
+  - first:
+      213: 3562391139630786886
+    second: Seen_192
+  - first:
+      213: -3866451351245135052
+    second: Seen_193
+  - first:
+      213: 9098244663729436449
+    second: Seen_194
+  - first:
+      213: 1326250948682334168
+    second: Seen_195
+  - first:
+      213: 2746861621417619878
+    second: Seen_196
+  - first:
+      213: 1482378144294894913
+    second: Seen_197
+  - first:
+      213: -9008233669647941212
+    second: Seen_198
+  - first:
+      213: -5573814279000451476
+    second: Seen_199
+  - first:
+      213: 8001647538169893844
+    second: Seen_200
+  - first:
+      213: -5372945992277881088
+    second: Seen_201
+  - first:
+      213: -4938078712079511367
+    second: Seen_202
+  - first:
+      213: 807257437848393604
+    second: Seen_203
+  - first:
+      213: 4858540171003718570
+    second: Seen_204
+  - first:
+      213: -2385016630467287219
+    second: Seen_205
+  - first:
+      213: -8527333812674138402
+    second: Seen_206
+  - first:
+      213: 4626725533602640522
+    second: Seen_207
+  - first:
+      213: -2365531845728405839
+    second: Seen_208
+  - first:
+      213: 1147403417895950961
+    second: Seen_209
+  - first:
+      213: -9048883978431647100
+    second: Seen_210
+  - first:
+      213: 4753575533757454286
+    second: Seen_211
+  - first:
+      213: 9178004712643999428
+    second: Seen_212
+  - first:
+      213: -1506583777925030524
+    second: Seen_213
+  - first:
+      213: 7146627923074780743
+    second: Seen_214
+  - first:
+      213: -3934431475713164057
+    second: Seen_215
+  - first:
+      213: -1331362393696934931
+    second: Seen_216
+  - first:
+      213: 6736318425442927193
+    second: Seen_217
+  - first:
+      213: 4647374050585081693
+    second: Seen_218
+  - first:
+      213: -7076719804569865064
+    second: Seen_219
+  - first:
+      213: 7665814622667423155
+    second: Seen_220
+  - first:
+      213: -310762303775040863
+    second: Seen_221
+  - first:
+      213: 6763538115201940679
+    second: Seen_222
+  - first:
+      213: -2617899154618043741
+    second: Seen_223
+  - first:
+      213: -3616360600349018383
+    second: Seen_224
+  - first:
+      213: -7841871992313646438
+    second: Seen_225
+  - first:
+      213: 7306954342839762327
+    second: Seen_226
+  - first:
+      213: 957069613981751318
+    second: Seen_227
+  - first:
+      213: -464929761929548861
+    second: Seen_228
+  - first:
+      213: -8854134050563851803
+    second: Seen_229
+  - first:
+      213: 6712246908117615556
+    second: Seen_230
+  - first:
+      213: 7337448807789843972
+    second: Seen_231
+  - first:
+      213: -312991914077092627
+    second: Seen_232
+  - first:
+      213: 2944011771158489375
+    second: Seen_233
+  - first:
+      213: 3688479146177195485
+    second: Seen_234
+  - first:
+      213: -2015307929941121122
+    second: Seen_235
+  - first:
+      213: -8397159748686030691
+    second: Seen_236
+  - first:
+      213: 8506232757407861575
+    second: Seen_237
+  - first:
+      213: 46551480993915090
+    second: Seen_238
+  - first:
+      213: 6772374935264213622
+    second: Seen_239
+  - first:
+      213: 6297772163080059081
+    second: Seen_240
+  - first:
+      213: -3040428434523543046
+    second: Seen_241
+  - first:
+      213: -6156500430321888193
+    second: Seen_242
+  - first:
+      213: -6000342007742980787
+    second: Seen_243
+  - first:
+      213: -8794861903857578734
+    second: Seen_244
+  - first:
+      213: 2349655463469075288
+    second: Seen_245
+  - first:
+      213: 6467405053849563846
+    second: Seen_246
+  - first:
+      213: 4602398407045788331
+    second: Seen_247
+  - first:
+      213: -6539639753511524746
+    second: Seen_248
+  - first:
+      213: 3413677876239733233
+    second: Seen_249
+  - first:
+      213: -8721359233090040028
+    second: Seen_250
+  - first:
+      213: -3865730845281442052
+    second: Seen_251
+  - first:
+      213: 3944182432810110098
+    second: Seen_252
+  - first:
+      213: 8672222010340687696
+    second: Seen_253
+  - first:
+      213: 8485073065283600033
+    second: Seen_254
+  - first:
+      213: 3192767486445841984
+    second: Seen_255
+  - first:
+      213: 6383316605453102879
+    second: Seen_256
+  - first:
+      213: -6076036679243412194
+    second: Seen_257
+  - first:
+      213: -7862517629494446323
+    second: Seen_258
+  - first:
+      213: -2586951407017949790
+    second: Seen_259
+  - first:
+      213: 3913260155172038959
+    second: Seen_260
+  - first:
+      213: -396030067732233555
+    second: Seen_261
+  - first:
+      213: 3131521522838822365
+    second: Seen_262
+  - first:
+      213: -4442310337562768527
+    second: Seen_263
+  - first:
+      213: 2711518253945383762
+    second: Seen_264
+  - first:
+      213: -3014074788624790756
+    second: Seen_265
+  - first:
+      213: 3632545483782121108
+    second: Seen_266
+  - first:
+      213: -503394570881529190
+    second: Seen_267
+  - first:
+      213: 1437281570627938820
+    second: Seen_268
+  - first:
+      213: -5426945321501533581
+    second: Seen_269
+  - first:
+      213: 7117344633061808936
+    second: Seen_270
+  - first:
+      213: -6833959918874695252
+    second: Seen_271
+  - first:
+      213: -6086505185907039793
+    second: Seen_272
+  - first:
+      213: -3839700793109376013
+    second: Seen_273
+  - first:
+      213: -8085922028939399559
+    second: Seen_274
+  - first:
+      213: 8345370146368653249
+    second: Seen_275
+  - first:
+      213: 5223175822185957224
+    second: Seen_276
+  - first:
+      213: 518270743457181010
+    second: Seen_277
+  - first:
+      213: 6346260186203028198
+    second: Seen_278
+  - first:
+      213: -8426758910136713017
+    second: Seen_279
+  - first:
+      213: 6402701889030105234
+    second: Seen_0
+  - first:
+      213: -8100608589049669559
+    second: Seen_1
+  - first:
+      213: 4580960804063459079
+    second: Seen_2
+  - first:
+      213: -5237393411335414759
+    second: Seen_3
+  - first:
+      213: 6889182935169850970
+    second: Seen_4
+  - first:
+      213: -7894754205223454371
+    second: Seen_5
+  - first:
+      213: 6803477957405917560
+    second: Seen_6
+  - first:
+      213: -539826674818720055
+    second: Seen_7
+  - first:
+      213: -588205742874865317
+    second: Seen_8
+  - first:
+      213: -7825356159966188070
+    second: Seen_9
+  - first:
+      213: 3188792264467361915
+    second: Seen_10
+  - first:
+      213: -4137508146072554788
+    second: Seen_11
+  - first:
+      213: 8739979323198793419
+    second: Seen_12
+  - first:
+      213: 3386190073414428917
+    second: Seen_13
+  - first:
+      213: -3053116443856414958
+    second: Seen_14
+  - first:
+      213: -6469018399678937588
+    second: Seen_15
+  - first:
+      213: 6096486675874051730
+    second: Seen_16
+  - first:
+      213: -1275122741929781673
+    second: Seen_17
+  - first:
+      213: -1028608828901058611
+    second: Seen_18
+  - first:
+      213: -465372542703970844
+    second: Seen_19
+  - first:
+      213: -1432640429431825291
+    second: Seen_20
+  - first:
+      213: 1114460831363691390
+    second: Seen_21
+  - first:
+      213: -5421110442453397274
+    second: Seen_22
+  - first:
+      213: -6312503598891901586
+    second: Seen_23
+  - first:
+      213: 7201828795073829895
+    second: Seen_24
+  - first:
+      213: 1510883146501319828
+    second: Seen_25
+  - first:
+      213: -6544996723623080886
+    second: Seen_26
+  - first:
+      213: -5867227599538856884
+    second: Seen_27
+  - first:
+      213: -2332895285602771698
+    second: Seen_28
+  - first:
+      213: -3842030618273801747
+    second: Seen_29
+  - first:
+      213: 9105802920101524623
+    second: Seen_0
+  - first:
+      213: 3057260845623113976
+    second: Seen_30
+  - first:
+      213: -8826555969268655365
+    second: Seen_31
+  - first:
+      213: -8863780392175639951
+    second: Seen_32
+  - first:
+      213: -5846678152985963581
+    second: Seen_33
+  - first:
+      213: -6008734977937199297
+    second: Seen_34
+  - first:
+      213: 2411547700728127853
+    second: Seen_35
+  - first:
+      213: -6653752613743318830
+    second: Seen_36
+  - first:
+      213: -1189218806915671875
+    second: Seen_37
+  - first:
+      213: 7959093602159470065
+    second: Seen_38
+  - first:
+      213: -3071291425958710120
+    second: Seen_39
+  - first:
+      213: -4669801046592901778
+    second: Seen_40
+  - first:
+      213: -8773557434192945555
+    second: Seen_41
+  - first:
+      213: 4186105188851908945
+    second: Seen_42
+  - first:
+      213: 1567470260362829576
+    second: Seen_43
+  - first:
+      213: 8841764291650918227
+    second: Seen_44
+  - first:
+      213: -2609608172191910474
+    second: Seen_45
+  - first:
+      213: 7901800472886656702
+    second: Seen_46
+  - first:
+      213: 4731793836432931449
+    second: Seen_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Seen_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9485739386bd49f80800000000000000
+      internalID: -8100608589049669559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707b0309497d29f30800000000000000
+      internalID: 4580960804063459079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c9168f07a0157b0800000000000000
+      internalID: -5237393411335414759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e5b7b016b4b9f50800000000000000
+      internalID: 6889182935169850970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5972a8e0e2307290800000000000000
+      internalID: -7894754205223454371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714168e72fca6e50800000000000000
+      internalID: 6803477957405917560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5627df762288f0800000000000000
+      internalID: -539826674818720055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5159194ef546d7f0800000000000000
+      internalID: -588205742874865317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addec447800c66390800000000000000
+      internalID: -7825356159966188070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70371a6badd04c20800000000000000
+      internalID: 3188792264467361915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27f0a334e9496c0800000000000000
+      internalID: -4137508146072554788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6e58753e4aa4970800000000000000
+      internalID: 8739979323198793419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f822d35ee92efe20800000000000000
+      internalID: 3386190073414428917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_14
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d80a35c621a5d0800000000000000
+      internalID: -3053116443856414958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_15
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1500
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06cba13a0e6936a0800000000000000
+      internalID: -6469018399678937588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296ff55c4521b9450800000000000000
+      internalID: 6096486675874051730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_17
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756d0424f9add4ee0800000000000000
+      internalID: -1275122741929781673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7958c48b5a9b1f0800000000000000
+      internalID: -1028608828901058611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5d8e7532aaa89f0800000000000000
+      internalID: -465372542703970844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c5ad0be1d3e1ce0800000000000000
+      internalID: -1432640429431825291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73f481b83c577f00800000000000000
+      internalID: 1114460831363691390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_22
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0976d56c854c4b0800000000000000
+      internalID: -5421110442453397274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_23
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d5ca00c6b7568a0800000000000000
+      internalID: -6312503598891901586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c1e87d12902f360800000000000000
+      internalID: 7201828795073829895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ce55c773cb7f410800000000000000
+      internalID: 1510883146501319828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cc95028208b25a0800000000000000
+      internalID: -6544996723623080886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_27
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c5e19859b639ea0800000000000000
+      internalID: -5867227599538856884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d96731914ef9fd0800000000000000
+      internalID: -2332895285602771698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_29
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de99d95328d5eaac0800000000000000
+      internalID: -3842030618273801747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84bd5fd28f4e5e70800000000000000
+      internalID: 9105802920101524623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_30
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f873118a829d6a20800000000000000
+      internalID: 3057260845623113976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_31
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 900
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa53ad6c16c18580800000000000000
+      internalID: -8826555969268655365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726c4512b68df480800000000000000
+      internalID: -8863780392175639951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c31c37623d6cdea0800000000000000
+      internalID: -5846678152985963581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa69a8f5fac9ca0800000000000000
+      internalID: -6008734977937199297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d616fcc5bd9877120800000000000000
+      internalID: 2411547700728127853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_36
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8a08a304f19a3a0800000000000000
+      internalID: -6653752613743318830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_37
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8d39dbbcb0f7fe0800000000000000
+      internalID: -1189218806915671875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_38
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5acca4671647e60800000000000000
+      internalID: 7959093602159470065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_39
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894370278b49065d0800000000000000
+      internalID: -3071291425958710120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d251690b8813fb0800000000000000
+      internalID: -4669801046592901778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e11767fff0e3680800000000000000
+      internalID: -8773557434192945555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15100f58d78081a30800000000000000
+      internalID: 4186105188851908945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_43
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f5ae0a5e5c0c510800000000000000
+      internalID: 1567470260362829576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357169f07c144ba70800000000000000
+      internalID: 8841764291650918227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_45
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b57b85913fc8cbd0800000000000000
+      internalID: -2609608172191910474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_46
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe3c602aa5d8ad60800000000000000
+      internalID: 7901800472886656702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_47
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 300
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ab7f29c65baa140800000000000000
+      internalID: 4731793836432931449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f62bbff92c35460800000000000000
+      internalID: 7229335819238141794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c83d327d92d9140800000000000000
+      internalID: 4727981187804662937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seen_50
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04637adcbe2e960800000000000000
+      internalID: 7629919987225215168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
