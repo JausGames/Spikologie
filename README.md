@@ -6,3 +6,5 @@ You can hit your opponent, when he bounce against a wall, he get damaged. If you
 You can find on the repository an export of the game and the Unity project.
 
 All codes, sprites and animation are homemade, help by Molly on the art.
+
+[![Watch the video](https://img.youtube.com/vi/O5bKJrDeajw/1.jpg)](https://youtu.be/O5bKJrDeajw)
